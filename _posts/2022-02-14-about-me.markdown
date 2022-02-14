@@ -1,0 +1,45 @@
+---
+layout: post
+title:  "About me"
+sitemap: true
+published: true
+permalink: https://itszoeyglobe.github.io/2022-02-14-about-me.html
+redirect_from: https://itszoeyglobe.github.io/2022-02-14-about-me.html
+redirect_to:  https://itszoeyglobe.github.io/about
+date:   2022-02-14 08:00:00 +0000
+---
+If you are not redirected automatically, follow this [https://itszoeyglobe.github.io/about](https://itszoeyglobe.github.io/about) link to itszoeyglobe.github.io/about
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>About | itszoeyglobe.github.io</title>
+	 <link rel="canonical" href="https://itszoeyglobe.github.io/about">
+	<!--[if IE]>
+		<script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+	
+	<!-- i got a domain, so, this is needed to redirect, because gitlab pages is weird.. -->
+<script type="text/javascript">
+console.log("trying to redirect to new new")
+if (window.location.pathname == '/2022-02-14-about-me.html') {
+   window.location.replace("https://itszoeyglobe.github.io/about/"); 
+}
+</script>
+
+<link rel="canonical" href="https://itszoeyglobe.github.io/about">
+<!-- /i got a domain, so, this is needed to redirect, because gitlab pages is weird.. -->
+
+        <meta http-equiv="refresh" content="0; url=https://itszoeyglobe.github.io/about">
+        <script type="text/javascript">
+            window.location.href = "https://itszoeyglobe.github.io/about"
+        </script>
+        
+</head>
+
+<body>
+
+If you are not redirected automatically, follow this <a href='https://itszoeyglobe.github.io/about'>link to itszoeyglobe.github.io/about</a>.
+
+</body>
+</html>
+

@@ -1,0 +1,528 @@
+html {
+    text-shadow: 2px 2px 1px rgb(0, 0, 0);
+    text-rendering:optimizeLegibility;
+    text-align:left;
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight:700;
+    letter-spacing: 0px;
+}
+
+body {
+    background-color: #000000;
+    text-shadow: 2px 2px 1px rgb(0, 0, 0);
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight:700;
+    letter-spacing: 0px;
+
+    text-rendering:optimizeLegibility;
+    margin-top:128px;
+
+    text-align:left;
+    display:block;
+    padding:10px;
+    color:white;
+
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-size:18px;
+
+    background: rgba(0, 0, 0, 0.7) url(./assets/background.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+    background-blend-mode: overlay;
+
+    z-index: -16777271;
+}
+
+.card {
+    -webkit-box-shadow: 7px 7px 5px 0px rgba(15, 15, 15, 0.75);
+    -moz-box-shadow:    7px 7px 5px 0px rgba(15, 15, 15, 0.75);
+    box-shadow:         7px 7px 5px 0px rgba(15, 15, 15, 0.75);
+    box-shadow: 0 8px 6px -6px black;
+
+    text-shadow: 2px 2px 1px rgb(0, 0, 0);
+    text-rendering:optimizeLegibility;
+    background-color:#121212;
+    width:700px;
+    max-width:700px;
+    min-width:700px;
+
+    border-radius:4px;
+
+    padding:10px;
+    font-size:18px;
+    text-align:left;
+    margin: 0 auto;
+    display:block;
+    padding:10px;
+    margin-left: auto;
+    margin-right: auto;
+
+    z-index: 16777271;
+
+    border: 1px solid black;
+}
+
+p {
+    text-shadow: 2px 2px 1px rgb(0, 0, 0);
+    text-rendering:optimizeLegibility;
+    font-size:20px;
+    max-width:700px;
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight:700;
+    letter-spacing: 0px;
+}
+
+a {
+    text-shadow: 2px 2px 1px rgb(0, 0, 0);
+    text-rendering:optimizeLegibility;
+    font-size:21px;
+    max-width:700px;
+    text-decoration:underline;
+}
+
+hr {
+    text-rendering:optimizeLegibility;
+    max-width:700px;
+    color:white;
+    background-color:white;
+    text-align:left;
+    left:0;
+}
+
+.toptitle {
+    text-shadow: 2px 2px 1px rgb(0, 0, 0);
+    text-rendering:optimizeLegibility;
+    position:relative;
+    display:inline-block;
+    padding:10px;
+    margin-left: auto;
+    margin-right: auto;
+    margin: 0 auto;
+    top:-72px;
+}
+
+.biotext {
+    text-shadow: 2px 2px 1px rgb(0, 0, 0);
+    text-rendering:optimizeLegibility;
+    position:relative;
+    padding:10px;
+    margin-left: auto;
+    margin-right: auto;
+    margin: 0 auto;
+    top:-64px;
+    font-size:24px;
+    width:600px;
+    max-width:600px;
+    min-width:600px;
+}
+
+.tinyunder {
+    text-shadow: 2px 2px 1px rgb(0, 0, 0);
+    text-rendering:optimizeLegibility;
+    position:relative;
+    display:-block;
+    padding:0px;
+    margin-left: auto;
+    margin-right: auto;
+    margin: 0 auto;
+
+    font-size:12px;
+    line-height:12px;
+    margin-top:-6px;
+}
+
+.iconholder {
+    filter: drop-shadow(0px 16px 10px transparent);
+
+    position:relative;
+    display:table-row;
+    padding:0px;
+    margin: 0;
+
+    top:-32px;
+    
+    white-space: nowrap;
+
+    height:66px;
+    max-height:66px;
+    min-height:66px;
+    
+    list-style-type: none;
+    text-align: center;
+
+    margin: 0 auto;
+    text-align: center;
+
+    margin-left: auto;
+    margin-right: auto;
+
+    vertical-align: middle;
+
+    overflow: hidden;
+    
+    overflow-x: hidden;
+    overflow-y: hidden;
+
+    justify-content: center;
+    align-items: center;
+
+    align-items: center;
+
+    place-items: center;
+
+    margin: auto;
+    left:0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+
+    width: fit-content;
+
+    width: 100%;
+    height: 100%;
+    box-orient: horizontal;
+    box-pack: center;
+    box-align: center;
+
+     /* debug size of icon holder bounding box */
+     /* background-color:red; */
+     /* set to transparent when not debugging */
+
+    background-color:transparent;
+
+
+    /* use this one to determine final horizontal align */
+    left:-20px;
+
+
+    /* fix align, leave following single line as it is */
+    display: inline;
+
+    
+    /* use this one to determine final vertical align */
+    top:0px;
+}
+
+.iconthing {
+    filter: drop-shadow(0px 16px 10px black);
+    float:left;
+    overflow: auto;
+    margin: 0 auto;
+    display: block;
+    text-align: center;
+    float:left;
+    position:relative;
+    display:table-row;
+    background: transparent;
+    opacity: 0.85;
+    width:64px;
+    height:auto;
+    max-width:64px;
+    max-height:auto;
+    min-width:64px;
+    min-height:auto;
+    border-radius:64px;
+    white-space: nowrap;
+    padding-right:auto;
+    text-align: center;
+    image-rendering: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.iconthing:hover {
+    float:left;
+    display:table-row;
+    white-space: nowrap;
+    opacity: 1;
+    border-radius:64px;
+    width:64px;
+    height:auto;
+    max-width:64px;
+    max-height:auto;
+    min-width:64px;
+    min-height:auto;
+    text-align: center;
+}
+
+.pfpholder {
+    float:left;
+    position:relative;
+    display:inline-block;
+
+    top:0;
+
+    /* use this one to determine final align */
+    margin-left:-368px;
+    margin-top: -66px;
+}
+
+.pfpitself {
+    float:left;
+    overflow: auto;
+    margin: 0 auto;
+    display: block;
+    text-align: center;
+    float:left;
+    position:relative;
+    display:table-row;
+    background: transparent;
+    opacity: 0.9;
+    width:64px;
+    height:auto;
+    max-width:64px;
+    max-height:auto;
+    min-width:64px;
+    min-height:auto;
+    border-radius:64px;
+    white-space: nowrap;
+    padding-right:auto;
+    text-align: center;
+    image-rendering: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:-64px;
+    margin-left:355px;
+}
+
+.pfpitself:hover {
+    float:left;
+    display:table-row;
+    white-space: nowrap;
+    opacity: 1;
+    border-radius:64px;
+    width:64px;
+    height:auto;
+    max-width:64px;
+    max-height:auto;
+    min-width:64px;
+    min-height:auto;
+    text-align: center;
+}
+
+ul > li {
+    display: inline-block;
+    zoom:1;
+    *display:inline;
+}
+
+ul {
+    display: inline-block;
+    zoom:1;
+    *display:inline;
+
+
+  /* balance height properly, leave alone. */
+    height:92px;
+
+
+  /* center and look nicer */
+    width:100%;
+
+  /* max width to avoid items clipping out of box in ugly way */
+  max-width:660px;
+  min-width:660px;
+  width:660px;
+}
+
+li {
+    display: inline-block;
+    zoom:1;
+    *display:inline;
+}
+
+button {
+    color:transparent;
+    background-color:transparent;
+    border: solid transparent;
+    padding:0px;
+    margin:0px;
+}
+
+.toptitleurl {
+    text-shadow: 2px 2px 1px rgb(0, 0, 0);
+    text-rendering:optimizeLegibility;
+    position:relative;
+    display:inline-block;
+    padding:10px;
+    margin-left: auto;
+    margin-right: auto;
+    margin: 0 auto;
+    color:white;
+    font-size:36px;
+    margin-top:-18px;
+    margin-left:-0px;
+    text-decoration: none;
+    text-decoration-color: transparent;
+    padding:0px;
+}
+
+.blogpitch {
+    text-shadow: 2px 2px 1px rgb(0, 0, 0);
+    text-rendering:optimizeLegibility;
+    position:relative;
+    display:-block;
+    padding:10px;
+    margin-left: auto;
+    margin-right: auto;
+    margin: 0 auto;
+    top:-16px;
+    font-size:24px;
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight:700;
+    letter-spacing: 0px;
+}
+
+.blogpitchurl {
+    color:darkseagreen;
+
+    text-shadow: 2px 2px 1px rgb(0, 0, 0);
+    text-rendering:optimizeLegibility;
+    position:relative;
+    display:-block;
+    padding:0px;
+    margin-left: auto;
+    margin-right: auto;
+    margin: 0 auto;
+    top:-1px;
+    font-size:24px;
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight:700;
+    letter-spacing: 0px;
+    padding-right:1px;
+}
+
+.icondescribe {
+    text-shadow: 2px 2px 1px rgb(0, 0, 0);
+    text-rendering:optimizeLegibility;
+    position:relative;
+    display:block;
+    padding:10px;
+    margin-left: auto;
+    margin-right: auto;
+    margin: 0 auto;
+    top:0px;
+    font-size:24px;
+    float:left;
+    white-space:normal;
+
+    height:0px;
+    max-height:0px;
+    min-height:0px;
+    line-height: 0px;
+    left:0;
+}
+
+.tinyfooter {
+    text-shadow: 2px 2px 1px rgb(0, 0, 0);
+    text-rendering:optimizeLegibility;
+    position:relative;
+    display: inline-block;
+    padding:0px;
+    margin-left: auto;
+    margin-right: auto;
+    margin: 0 auto;
+    font-size:12px;
+    line-height:14px;
+    margin-top:-6px;
+    vertical-align:bottom;
+    bottom: 0;
+    left:0;
+    display: flex;
+    align-items: flex-end;
+    font-weight:100;
+}
+
+.tinyfooterurl {
+    text-shadow: 1px 1px 1px rgb(0, 0, 0);
+    text-rendering:optimizeLegibility;
+    position:relative;
+    display: inline-block;
+    font-size:12px;
+    margin:0px;
+    padding:0px;
+    color:darkseagreen;
+    letter-spacing:0px;
+    font-weight:100;
+}
+
+.etciconbonus {
+    line-height:0px; 
+    display:grid;
+    float:right;
+    position:relative;
+    top:0;
+    margin-left:-128px;
+}
+
+#spoilerstyle {
+    float:left;
+    top:0;
+    left:0;
+    position:absolute;
+    height:82px;
+    text-decoration-color: transparent;
+    border:0px solid transparent;
+    -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+    -khtml-user-select: none; /* Konqueror HTML */
+    -moz-user-select: none; /* Old versions of Firefox */
+    -ms-user-select: none; /* Internet Explorer/Edge */
+    user-select: none; /* Non-prefixed version, currently
+                                  supported by Chrome, Edge, Opera and Firefox */
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+#dotdotdot {
+    float:right;
+    display:inline-block;
+    position:absolute;
+    top:0;
+    margin-top:-58px;
+}
+
+.dotdotdot-content {
+    float:left;
+    position:relative;
+    display:inline-block;
+    left:0;
+    top:0;
+}
+
+.bottomright {
+    position:absolute;
+    display:block;
+    float:right;
+    margin-left:614px;
+
+/* the following line is penguin vertical height */
+    margin-top:-230px;
+}
+
+.penguinhug {
+    top:0;
+    left:0;
+    position:absolute;
+    display:block;
+    margin-left:-8px;
+    margin-top:-108px;
+    width:80px;
+    height:auto;
+}
+
+.moreitems {
+    margin-top:16px;
+    background-color:#303030;
+    height:auto;
+    width:100%;
+    border-radius: 32px;
+}

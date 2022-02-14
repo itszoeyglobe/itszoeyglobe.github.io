@@ -1,0 +1,43 @@
+---
+layout: default
+---
+<!DOCTYPE html>
+
+
+<script type="text/javascript">
+console.log("trying to redirect to new new")
+if (window.location.pathname == '/') {
+   window.location.replace("https://itszoeyglobe.github.io/about/"); 
+}
+</script>
+
+<link rel="canonical" href="https://itszoeyglobe.github.io/about/">
+
+
+<script>
+document.getElementsByTagName("html")[0].insertAdjacentHTML(
+    "beforeend",
+    "<link rel=\"stylesheet\" href=\"https://github.com/itszoeyglobe/itszoeyglobe.github.io/-/raw/master/_layouts/css.css\" />");
+</script>
+
+<link rel="stylesheet" type="text/css" href="https://github.com/itszoeyglobe/itszoeyglobe.github.io/-/raw/master/_layouts/css.css">
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+<meta name="color-scheme" content="dark light">
+<meta name="color-scheme" content="light dark" />
+  {%- include head.html -%}
+
+  <body>
+
+    {%- include header.html -%}
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </main>
+
+    {%- include footer.html -%}
+
+  </body>
+
+</html>
