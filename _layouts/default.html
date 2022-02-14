@@ -24,6 +24,15 @@ document.getElementsByTagName("html")[0].insertAdjacentHTML(
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
 <meta name="color-scheme" content="dark light">
 <meta name="color-scheme" content="light dark" />
+   
+<script>
+document.getElementsByTagName("html")[0].insertAdjacentHTML(
+    "beforeend",
+    "<link rel=\"stylesheet\" href=\"https://raw.githubusercontent.com/itszoeyglobe/itszoeyglobe.github.io/main/_layouts/css.css\" />");
+</script>
+
+<link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/itszoeyglobe/itszoeyglobe.github.io/main/_layouts/css.css">
+
   {%- include head.html -%}
 
   <body>
