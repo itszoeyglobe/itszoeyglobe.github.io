@@ -2,18 +2,6 @@
 layout: page
 permalink: /about/
 ---
-<script>
-document.getElementsByTagName("html")[0].insertAdjacentHTML(
-    "beforeend",
-    "<link rel=\"stylesheet\" href=\"https://raw.githubusercontent.com/itszoeyglobe/itszoeyglobe.github.io/main/_layouts/css.css\" />");
-</script>
-
-<link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/itszoeyglobe/itszoeyglobe.github.io/main/_layouts/css.css">
-
-<title>itszoeyglobe.github.io</title>
-
-# About
-
 ![face](https://raw.githubusercontent.com/itszoeyglobe/itszoeyglobe.github.io/main/assets/face-for-about.jpg)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sit amet imperdiet ipsum. Etiam fermentum quis erat id consectetur. Aenean quis venenatis nisi. Mauris cursus erat sed diam placerat tincidunt. Maecenas id faucibus nibh. Donec euismod porta tempor. Donec sagittis scelerisque finibus. Vestibulum gravida elementum purus, in placerat odio consectetur in. Praesent nec porta ex. Curabitur condimentum pulvinar egestas. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Ut eget nibh non purus aliquam vehicula. Sed sed vestibulum odio, eget aliquam purus. Mauris massa lorem, luctus et ligula a, vestibulum iaculis arcu. Curabitur eu feugiat leo. Vestibulum dui eros, varius vel sollicitudin maximus, volutpat vitae eros.
