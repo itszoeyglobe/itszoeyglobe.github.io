@@ -18,7 +18,6 @@ If you are not redirected automatically, follow this [https://itszoeyglobe.githu
 		<script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 	<![endif]-->
 	
-	<!-- i got a domain, so, this is needed to redirect, because gitlab pages is weird.. -->
 <script type="text/javascript">
 console.log("trying to redirect to new new")
 if (window.location.pathname == '/2022-02-14-about-me.html') {
@@ -27,7 +26,6 @@ if (window.location.pathname == '/2022-02-14-about-me.html') {
 </script>
 
 <link rel="canonical" href="https://itszoeyglobe.github.io/about">
-<!-- /i got a domain, so, this is needed to redirect, because gitlab pages is weird.. -->
 
         <meta http-equiv="refresh" content="0; url=https://itszoeyglobe.github.io/about">
         <script type="text/javascript">
