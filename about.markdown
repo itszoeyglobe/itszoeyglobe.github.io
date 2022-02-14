@@ -1,3 +1,10 @@
+<script>
+document.getElementsByTagName("html")[0].insertAdjacentHTML(
+    "beforeend",
+    "<link rel=\"stylesheet\" href=\"https://raw.githubusercontent.com/itszoeyglobe/itszoeyglobe.github.io/main/_layouts/css.css\" />");
+</script>
+
+<link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/itszoeyglobe/itszoeyglobe.github.io/main/_layouts/css.css">
 ---
 layout: page
 permalink: /about/
