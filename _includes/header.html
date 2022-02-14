@@ -1,5 +1,12 @@
 <header class="site-header">
 <title>itszoeyglobe.github.io</title>
+  <script>
+document.getElementsByTagName("html")[0].insertAdjacentHTML(
+    "beforeend",
+    "<link rel=\"stylesheet\" href=\"https://raw.githubusercontent.com/itszoeyglobe/itszoeyglobe.github.io/main/_layouts/css.css\" />");
+</script>
+
+<link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/itszoeyglobe/itszoeyglobe.github.io/main/_layouts/css.css">
   <div class="wrapper">
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
