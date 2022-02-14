@@ -1,3 +1,7 @@
+---
+layout: page
+permalink: /about/
+---
 <script>
 document.getElementsByTagName("html")[0].insertAdjacentHTML(
     "beforeend",
@@ -5,10 +9,6 @@ document.getElementsByTagName("html")[0].insertAdjacentHTML(
 </script>
 
 <link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/itszoeyglobe/itszoeyglobe.github.io/main/_layouts/css.css">
----
-layout: page
-permalink: /about/
----
 
 Hello World! I'll be putting things on here soon, after I've gotten some sleep
 
