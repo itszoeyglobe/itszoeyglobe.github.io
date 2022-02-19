@@ -2,7 +2,7 @@
 layout: page
 permalink: /about/
 ---
-![face](https://raw.githubusercontent.com/itszoeyglobe/itszoeyglobe.github.io/main/assets/faces-for-about.jpg)
+![face](https://raw.githubusercontent.com/itszoeyglobe/itszoeyglobe.github.io/main/assets/faces-for-about_bright.jpg)
 
 Hello! My name’s zoey Globe,
 
