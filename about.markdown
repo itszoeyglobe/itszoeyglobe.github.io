@@ -16,6 +16,8 @@ Web development is probably where my future is, that or some kind of a PC system
 
 Recently I’ve been trying to get into writing more, but it's always quite difficult. Even writing this page was a multi-day struggle, for me, but hopefully I'll become and remain more practiced with time.
 
+I have a YouTube channel, on which you can expect videos randomly and without schedule. I've been trying to get into making videos more over time, but it's slow progress, because sometimes I'm a perfectionist, so making and editing videos takes a while, but feel free to subscribe to see when I do: [https://www.youtube.com/channel/UCHPRv42hwuIE6ZIi8c96H2g](https://www.youtube.com/channel/UCHPRv42hwuIE6ZIi8c96H2g)
+
 Sorry if my writing or sentence structure seems awkward or confusing sometimes, or something doesn’t make sense, I have autism, and likely other neurodivergences- it shouldn’t affect anything much, but please ask for clarity if I ever say something you’re unsure of. I can also be quite shy, sometimes, and I apologise for that.
 
 I signed up for and filled in a pronouns.page for myself, please see it to learn my pronouns, name, species, things I am, and am proud of. Also included are a small selection of words I feel comfortable being used for me, so you can get the general theme of how I'd prefer you refer to me. Please take a look: [https://en.pronouns.page/@itszoeyglobe](https://en.pronouns.page/@itszoeyglobe)
