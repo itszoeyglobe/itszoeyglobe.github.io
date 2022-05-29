@@ -1,4 +1,6 @@
 ---
+layout: page
+permalink: /about/
 <head>
   
 <link rel="canonical" href="https://itszoeyglobe.github.io/about/">
@@ -7,9 +9,6 @@
 <meta name="keywords" content="HTML,CSS,itszoeyglobe,zoeyglobe">
 
 </head>
-
-layout: page
-permalink: /about/
 ---
 ![face](https://raw.githubusercontent.com/itszoeyglobe/itszoeyglobe.github.io/main/assets/faces-for-about_new.png)
 
