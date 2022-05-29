@@ -57,7 +57,7 @@ I plan to add more to this site with time, and also register to use other websit
 
 Have a wonderful day.
 
-*Released: 14/Feb/2022 | Updated: 29/May/2022 at 23:59PM*
+*Released: 14/Feb/2022 | Updated: 30/May/2022 at 00:33AM*
 
 <meta charset="UTF-8">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
@@ -81,4 +81,3 @@ Have a wonderful day.
 <meta http-equiv="cache-control" content="no-store" />
 <meta http-equiv="expires" content="-1" />
 <meta http-equiv="Expires" content="0" />
-
