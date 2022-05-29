@@ -9,6 +9,29 @@ permalink: /about/
 <meta name="author" content="itszoeyglobe,zoeyglobe">
 <meta name="keywords" content="HTML,CSS,itszoeyglobe,zoeyglobe">
 
+<meta charset="UTF-8">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<meta name="color-scheme" content="light dark" />
+<meta name="robots" content="noindex,nofollow">
+<meta http-equiv="Cache-Control" content="no-store" />
+<meta http-equiv="cache-control" content="max-age=0" />
+<meta http-equiv="cache-control" content="no-cache" />
+<meta http-equiv="expires" content="0" />
+<meta http-equiv="expires" content="Tue, 01 Jan 1980 1:00:00 GMT" />
+<meta http-equiv="pragma" content="no-cache" />
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="0">
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
+<link rel="shortcut icon" type="image/png" href="favicon.png"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="cache-control" content="no-cache, must-revalidate, post-check=0, pre-check=0" />
+<meta http-equiv="cache-control" content="no-store" />
+<meta http-equiv="expires" content="-1" />
+<meta http-equiv="Expires" content="0" />
+
 </head>
 
 ![face](https://raw.githubusercontent.com/itszoeyglobe/itszoeyglobe.github.io/main/assets/faces-for-about_new.png)
@@ -38,3 +61,26 @@ I plan to add more to this site with time, and also register to use other websit
 Have a wonderful day.
 
 *Released: 14/Feb/2022 | Updated: 29/May/2022 at 23:59PM*
+
+<meta charset="UTF-8">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<meta name="color-scheme" content="light dark" />
+<meta name="robots" content="noindex,nofollow">
+<meta http-equiv="Cache-Control" content="no-store" />
+<meta http-equiv="cache-control" content="max-age=0" />
+<meta http-equiv="cache-control" content="no-cache" />
+<meta http-equiv="expires" content="0" />
+<meta http-equiv="expires" content="Tue, 01 Jan 1980 1:00:00 GMT" />
+<meta http-equiv="pragma" content="no-cache" />
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="0">
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
+<link rel="shortcut icon" type="image/png" href="favicon.png"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="cache-control" content="no-cache, must-revalidate, post-check=0, pre-check=0" />
+<meta http-equiv="cache-control" content="no-store" />
+<meta http-equiv="expires" content="-1" />
+<meta http-equiv="Expires" content="0" />
