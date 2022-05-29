@@ -8,6 +8,12 @@ redirect_from: https://itszoeyglobe.github.io/2022-02-14-about-me.html
 redirect_to:  https://itszoeyglobe.github.io/about
 date:   2022-02-14 08:00:00 +0000
 ---
+
+<link rel="canonical" href="https://itszoeyglobe.github.io/about/">
+<meta name="description" content="I'm a Linux-loving creative kitty-girl from England. I'm female, and my pronouns are she/her/hers. I'm transgender, and otherkin (cat-kin, I really am a cat).">
+<meta name="author" content="itszoeyglobe,zoeyglobe">
+<meta name="keywords" content="HTML,CSS,itszoeyglobe,zoeyglobe">
+
 If you are not redirected automatically, follow this [https://itszoeyglobe.github.io/about](https://itszoeyglobe.github.io/about) link to itszoeyglobe.github.io/about
 <html lang="en">
 <head>
