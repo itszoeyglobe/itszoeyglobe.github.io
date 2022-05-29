@@ -3,12 +3,10 @@ layout: page
 permalink: /about/
 ---
 <head>
-  
 <link rel="canonical" href="https://itszoeyglobe.github.io/about/">
 <meta name="description" content="I'm a Linux-loving creative kitty-girl from England. I'm female, and my pronouns are she/her/hers. I'm transgender, and otherkin (cat-kin, I really am a cat).">
 <meta name="author" content="itszoeyglobe,zoeyglobe">
 <meta name="keywords" content="HTML,CSS,itszoeyglobe,zoeyglobe">
-
 <meta charset="UTF-8">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <meta name="color-scheme" content="light dark" />
@@ -31,7 +29,6 @@ permalink: /about/
 <meta http-equiv="cache-control" content="no-store" />
 <meta http-equiv="expires" content="-1" />
 <meta http-equiv="Expires" content="0" />
-
 </head>
 
 ![face](https://raw.githubusercontent.com/itszoeyglobe/itszoeyglobe.github.io/main/assets/faces-for-about_new.png)
