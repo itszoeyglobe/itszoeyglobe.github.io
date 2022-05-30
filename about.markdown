@@ -51,6 +51,8 @@ Sorry if my writing or sentence structure seems awkward or confusing sometimes, 
 
 I signed up for and filled in a pronouns.page for myself, please see it to learn my pronouns, name, species, things I am, and am proud of. Also included are a small selection of words I feel comfortable being used for me, so you can get the general theme of how I'd prefer you refer to me. Please take a look: [https://en.pronouns.page/@itszoeyglobe](https://en.pronouns.page/@itszoeyglobe)
 
+I've been into photography for quite a while, but not really had anywhere to post it, so recently I made a *Twitter* account to put my photos on, so they're not just sitting on a hard-drive unseen, which you can find here: [https://twitter.com/itszoeyglobe](https://twitter.com/itszoeyglobe)
+
 Feel free to e-mail me with whatever you'd please, thoughts, feedback, etc. - zoeyglobe@gmail.com
 
 I plan to add more to this site with time, and also register to use other websites! It's slow progress, but I will.
