@@ -59,7 +59,7 @@ I plan to add more to this site with time, and also register to use other websit
 
 Have a wonderful day.
 
-*Released: 14/Feb/2022 | Updated: 30/May/2022 at 00:33AM*
+*Released: 14/Feb/2022 | Updated: 30/May/2022 at 02:00AM*
 
 <meta charset="UTF-8">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
