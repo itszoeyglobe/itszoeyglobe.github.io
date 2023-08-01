@@ -1,3 +1,7 @@
+---
+layout: page
+permalink: /about/
+---
 <!DOCTYPE html>
 <html lang="en">
    <head>
