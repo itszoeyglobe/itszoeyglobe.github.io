@@ -2,7 +2,9 @@
 layout: page
 permalink: /about/
 ---
-<!DOCTYPE html>
+
+If you are not redirected automatically, follow this [https://www.youtube.com/channel/UCHPRv42hwuIE6ZIi8c96H2g/](https://www.youtube.com/channel/UCHPRv42hwuIE6ZIi8c96H2g/) link to https://www.youtube.com/channel/UCHPRv42hwuIE6ZIi8c96H2g/
+
 <html lang="en">
    <head>
       <meta charset="utf-8">
